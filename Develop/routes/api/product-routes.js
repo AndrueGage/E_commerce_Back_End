@@ -19,11 +19,11 @@ router.get('/', (req, res) => {
       }
     ]
   })
-  .then(ProductData => res.json(productData))
+  .then(productData => res.json(productData))  // Corrected from ProductData to productData
   .catch(err => {
     console.log(err);
     res.status(500).json(err);
-  })
+  });
 });
 
 // get one product
