@@ -3,7 +3,10 @@
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Description
-  An E-Commerce back end created using Express.js, MySQL2, Sequelize, and dotenv. 
+  ![image](https://github.com/AndrueGage/E_commerce_Back_End/assets/147120878/454609a9-0d8c-446b-8545-fc34c57813e3)
+
+  An E-Commerce back end created using Express.js, MySQL2, Sequelize, and dotenv. You can watch a video of the program [here](https://vimeo.com/920791862)
+
 
   ## Table of Contents
   - [Installation](#installation)
